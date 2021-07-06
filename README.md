@@ -1,4 +1,6 @@
 # project__PFE
 Projet de fin d'étude
 
-https://tastyma.netlify.app/
+https://soufianfallah.github.io/project__PFE/
+
+https://pfetdi203.netlify.app/
