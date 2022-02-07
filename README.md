@@ -1,6 +1,8 @@
-# project__PFE
+# Tasty.ma
+Essayez les meilleurs plats de cuisine
+Marocaine .
 Projet de fin d'étude
 
 https://soufianfallah.github.io/project__PFE/
 
-https://pfetdi203.netlify.app/
+https://tasty-ma.netlify.app/
