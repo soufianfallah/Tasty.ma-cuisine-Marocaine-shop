@@ -8,6 +8,6 @@
 Essayez les meilleurs plats de cuisine
 Marocaine .
 
-https://soufianfallah.github.io/project__PFE/
+https://soufianfallah.github.io/Tasty.ma-cuisine-Marocaine-shop/
 
 https://tasty-ma.netlify.app/
